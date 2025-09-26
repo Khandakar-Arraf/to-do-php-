@@ -9,4 +9,6 @@ Import db_schema.sql file  into the database.
 
 If the error appears, then execute the create query in the SQL section.
 
+place to-do directory in xampp/htdocs
+
 Url to run project locally, loaclhost:8080 or 127.0.01:80.
